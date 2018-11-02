@@ -1,0 +1,55 @@
+{
+  "createticket_payload":{
+    "myID_000010902": {
+      "z1D_Action":"CREATE",
+      "Status": "New",
+      "Submitter": "SAP Chatbot",
+      "Detailed_Decription": "time sheets",
+      "Product Categorization Tier 1": "Software",
+      "Product Categorization Tier 2": "Enterprise Application",
+      "Product Categorization Tier 3": "Vantage",
+      "Product Name": "Fiori",
+      "Manufacturer": "IPG",
+      "Login_ID": "vivek.ashar@interpublic.com",
+      "Case Type": "Request",
+      "Description": "",
+      "Assigned Support Organization": "EAS-SAP",
+      "Categorization Tier 1": "Enterprise SW",
+      "Categorization Tier 2": "nSAP",
+      "Categorization Tier 3": "Time Management",
+      "Client Sensitivity": "Standard",
+      "Service_Type": "User Service Request",
+      "Urgency": "3-Medium",
+      "Impact": "4-Minor/Isolated",
+      "Reported Source": "Self Service",
+      "Assigned Group": "NA-SAP-Client Services",
+      "Assigned Support Company": "Global Information Services",
+      "Owner Group": "NA-SAP-Client Services",
+      "Owner Support Company": "Global Information Services",
+      "Owner Support Organization": "EAS-SAP",
+      "Site": "US-NYC-9093AV-GIS",
+      "Site Group": "United States"
+
+    }
+
+  },
+  "updateticket_payload":{
+    "1000000151":"hello"
+  },
+
+  "closeticket_payload":{
+    "Resolution":"You are missing an employee grade in your Vantage PA30 (Human Resources HR) record. Please contact your HR department and request an employee grade to be added.  If they have any questions they can visit the Vantage Learning Center for Step by Step instructions.",
+    "SAPTab-Cause":"Outage",
+    "SAPTab-Resolution":"Training",
+    "Assignee":"Patrice Montgomery",
+    "Assignee Login ID":"patrice.montgomery@interpublic.com ",
+    "Status":"Resolved",
+    "Status_Reason":"No Further Action Required"
+  },
+
+  "updateTicket_payload":{
+    "SAPTab-Cause":"",
+    "Assignee":"Patrice Montgomery",
+    "Assignee Login ID":"patrice.montgomery@interpublic.com "
+  }
+}

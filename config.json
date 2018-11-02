@@ -1,0 +1,9 @@
+{
+  "user" : "2NfkL8qVAEycAUvVSEFESIODlkMEakdW",
+  "pass" : "atTeNu6nB8BVHlJv",
+  "url"  : {
+    "TokenURL":"https://ipgcloud.apimanagement.us1.hana.ondemand.com:443/OAuthService/GenerateToken",
+    "ticketURL":"https://ipgcloud.apimanagement.us1.hana.ondemand.com/v1/RemedyV8/HPD:IncidentInterface_Create/",
+    "incidentURL":"https://ipgcloud.apimanagement.us1.hana.ondemand.com/v1/RemedyV8/HPD:Help%20Desk/"
+  }
+}

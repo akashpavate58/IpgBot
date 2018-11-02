@@ -1,0 +1,18 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/index.js",
+            "cwd": "${workspaceRoot}",
+            "env": {
+                "NODE_ENV": "development",
+                "LuisAppId": "067a6581-2e2b-4e05-8e06-42c9c17db87a",
+                "LuisAPIKey": "8f23349bb0054d4893261388751394b5"
+            }
+        }
+    ]
+}

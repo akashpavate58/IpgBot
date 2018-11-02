@@ -1,0 +1,11 @@
+{
+    "appId":"5affe0fd-d746-4002-a51f-177be3c86f97",
+    "appPassword":"R{fk?G5=7&Qs}4wf",
+	"model":"https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/50de5b8e-97ca-4e24-8063-362c3538c2fb?subscription-key=9b5a68370b9d4f4bb5abb31a3fb62257&timezoneOffset=-360&q=",
+    
+    "host":"https://milinventorydb.documents.azure.com:443/",
+    "masterKey":"u4fdfDmLOWciQmFHE1DoKeuQaUO5m4HbAHWg3hszq3eHBxUItmHOGwqay2nhOw4CEVHIDOI8UMEMGy6C3FLhhg==",
+    "database":"MIL_DB",
+    "collection":"ExampleCollection",
+    "validator": "https://ipgmockapp.azurewebsites.net"
+}

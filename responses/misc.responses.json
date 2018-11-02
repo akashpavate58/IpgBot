@@ -1,0 +1,15 @@
+{
+  "help": "I can help you resolve any issues you are having around Time Management. You can start off by saying “I am having an error” (or) “I have a request”.",
+  "default": "I’m having trouble understanding what you are looking for – please go ahead and submit the iForm for further action (or) assistance.",
+  "thankyou": [
+    "Sure thing – have a great day!"
+  ],
+  "nevermind":[
+    "No problem – let me know if you need help with anything else",
+    "Sure thing, let me know if you need  help with anything else"
+  ],
+  "greetings": [
+    "Hi, I’m the IPG Help Desk Assistant – How can I help you?",
+    "Hey – anything that you need help with!"
+  ]
+}

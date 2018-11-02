@@ -1,0 +1,23 @@
+{
+    "request":{
+        "changetimeapprover":"Change the time approver for user",
+        "removetimeapprover":"Time Approver Update",
+        "setuptimeapprover":"Setup Time Approver",
+        "updatetime":"Update Time Entries"
+
+    },
+    "error":{
+        "employeegrademissing":"Enter Sender Activity Type",
+        "increasecolrowfiori":"How to increase columns/rows in Fiori",
+        "errorinvalidjob":"Invalid Job ID",
+        "errorinvalidactivity":"Invalid Activity",
+        "personnelnotauthorized":"Personnel Doesn't Exist or Not Authorized",
+        "useremailblocked":"Email Blocking",
+        "useremailnotblocked":"Email Blocking"
+    },
+    "question":{
+        "editfavouritejoblist":"How to Edit faviourite Job List",
+        "timeentry":"How to enter time in FIORI",
+        "multipletimeadmins":"How to maintain multiple users as time admins for a certain employee"
+    }
+}

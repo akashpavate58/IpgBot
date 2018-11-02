@@ -1,0 +1,17 @@
+{
+  "question": "Sure, I'd be glad to help! What is your question?",
+  "editfavouritejoblist":{
+    "edit": "You can either add (or) remove jobs from your favorites by making the changes and then clicking on “Save as Favorite”.",
+    "add": "**You can add a new job to favorites through the following steps,** \n\n - Check the time entry that you want to delete from your time sheet. \n\n - Click Delete Button. \n\n - Click Save as Favorite.",
+    "remove": "**You can delete a new job to favorites through the following steps,** \n\n - Check the time entry that you want to add to your favorites. \n\n - Click Save as Favorite.",
+    "sub" : "You can find additional training about editing your favorite job list in the IPG Learning Center.\n\n --- \n\n *For more details please click the link(s) below* \n\n ",
+    "links" : "[Editing your Favorite Jobs](https://learningcenter.interpublic.com/gm/folder-1.11.1095934?mode=EU&originalContext=1.11.982285)"
+  },
+  "timeentry":{
+    "main": "You can find instructions related to any Vantage related functionality, including time entry, at the IPG Learning Center. Feel free to reach out to your Office Time Super User for additional assistance.\n\n --- \n\n *For more details please click the link(s) below* \n\n ",
+    "links" : "[IPG Learning Center](https://learningcenter.interpublic.com/gm/folder-1.11.1095934?originalContext=1.11.982285)"
+  },
+  "multipletimeadmins":{
+    "main": "Only time admin may be setup per user. You may consider giving Time Super User role to others who need to be time admins. This role will allow them to enter time on behalf of all agency users."
+  }
+}

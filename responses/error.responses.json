@@ -1,0 +1,89 @@
+{
+  "error":"What is the error that you are facing?",
+  "employeegrademissing":{
+      "main":"You are missing an employee grade in your Vantage **PA30**(HR) record. Please contact your HR department and request an employee grade to be added.",
+      "sub":"You can learn more about update the employee grade at the IPG Learning Center.\n\n --- \n\n *For more details please click the link(s) below* \n\n",
+      "links":"[Update Employee Grade in **PA30**](https://learningcenter.interpublic.com/gm/folder-1.11.593390?mode=EU)"
+  },
+  "invalidjob":"Thank you, please give me a few moments while I verify the job number in the system.",
+  "incorrectjobnum":{
+      "main":"You appear to have entered a job number that does not exist. Please check the number for any typos and try again. If the issue persists, please reach out to the job owner to confirm the job number.",
+      "sub":"For additional information please visit the IPG Learning Center.\n\n --- \n\n *For more details please click the link(s) below* \n\n",
+      "links":"[Incorrect Job Number](https://learningcenter.interpublic.com/gm/folder-1.11.904206?mode=EU&originalContext=1.11.904151)"
+  },
+  "invalidstatus":{
+      "main":"The job that you are trying to use does not have a status that allows time to be posted to it. Please contact the job owner/finance contact to have the job status updated (or) to provide you a new job number to post time against.",
+      "sub":"For Information on job status functonality please visit the IPG Learning Center.\n\n --- \n\n *For more details please click the link(s) below* \n\n",
+      "links":"[Invalid Job Status](https://learningcenter.interpublic.com/gm/folder-1.11.644631?mode=EU&originalContext=1.11.593352)"
+},
+    "invalidplant":{
+    "main":"**The job that you are trying to use has not been opened in the plant that you are assigned to. Resolution options,** \n\n - Reach out to your local office HR admin to provide you cross plat access. \n\n - (or) Reach out to finance contact of the job if they want to open a segment on the job for the plant that you belong to. \n\n - (or) Find a different job no. that belongs to your plant to enter time with the help of your finance contact (or) supervisor (or) time super user.",
+    "sub":"For additional information please visit the IPG Learning Center.\n\n --- \n\n *For more details please click the link(s) below* \n\n",
+    "links":"[Updating **ZEMPCC**](https://learningcenter.interpublic.com/gm/folder-1.11.1043474?mode=EU&primaryCSH=zempcc)"
+},
+    "validityexpired":{
+        "main":"The job that you are trying to use has a validity period that does not include the period that you are trying to enter time for. Please work with the job owner (or) finance contact to have the dates updated (or) create a new job number.",
+        "sub":"For information on job validity please visit the IPG Learning Center.\n\n --- \n\n  *For more details please click the link(s) below* \n\n",
+        "links":"[Job Validity Expired](https://learningcenter.interpublic.com/gm/folder-1.11.4325?mode=EU&primaryCSH=job%2Ccreation)"
+    },
+    "invalidactivity":"Thank you, please give me a few moments while I verify the activity number in the system",
+    "timeoffcode":{
+        "main":"You are using a time off code which needs a 3-digit activity code. Please select a valid 3-digit activity code and try again.",
+        "sub":"For additional information about activity codes for time off please visit the IPG Learning Center.\n\n --- \n\n  *For more detials please click the link(s) below* \n\n",
+        "links":"[Time Off Activity Codes](https://learningcenter.interpublic.com/gm/folder-1.11.634916?mode=EU&primaryCSH=time%2Coff)"
+    },
+    "agencycustomer":{
+        "main":"We see the activity code you are using is not in the Agency Customer Material list. Check with the job owner for correct activity and if you are using the correct activity type please request the Customer Material list is updated.",
+        "sub":"For additional information on this topic please visit the IPG Learning Center.\n\n --- \n\n  *For more details please click the link(s) below* \n\n",
+        "links":"[Adding Activity Code to Customer Material List](https://learningcenter.interpublic.com/gm/folder-1.11.6233?mode=EU&primaryCSH=vb03)"
+    },
+    "activity":"Activity code is perfectly valid",
+    "incorrectrole":{
+        "main":"You appear to not have the correct time entry role. I have created a ticket for you, the help desk will help sort out your role. You will hear very soon from them once the role has been setup.",
+        "sub":"You do not need to create ticket in the iForm. Your ticket ID is:",
+        "links":""
+    },
+    "incorrectrole1":{
+        "main":"You appear to not have the correct time entry parameters. I have created a ticket for you, the help desk will help sort out your role. You will hear very soon from them once the parameters have been setup.",
+        "sub":"You do not need to create ticket in the iForm. Your ticket ID is: ",
+        "links":""
+    },
+    "personal":{
+        "main":"It is likely that your Vantage record is not active for the period that you are trying to enter time for your time sheet. Please double check the dates that you are trying to enter time for. The HR Department will be able to update your active status to include the accurate time frame if needed.",
+        "sub":"For more information about updating active status please visit the IPG Learning Center,\n\n --- \n\n *For more details please click the link(s) below* \n\n",
+        "links":"[Updataing PA40](https://learningcenter.interpublic.com/gm/folder-1.11.592495?mode=EU)"
+    },
+    "emailblocked":"Give me a moment while I verify within the system.",
+    "emailblockederror":{
+        "main":"I can see that you are missing time currently, the minimum hours per day is 8 hours. Please complete time entry for following dates to get access back to email: ",
+        "sub":"For more informarion about delinquent time you can visit the IPG Learning Center.\n\n --- \n\n *For more details please click the link(s) below* \n\n",
+        "links":"[Entering Missing Time](https://learningcenter.interpublic.com/gm/folder-1.11.1095934?mode=EU&originalContext=1.11.982285)"
+    },
+    "emailblockedsuccess":{
+        "main":"I cannot find any issues with time within the system. I have created a ticket for you and escalated to the help desk for action. You will hear very soon from them once the parameters have been setup.",
+        "sub":"You do not need to create another ticket in the iForm. The ticket ID is:",
+        "links":""
+    },
+    "emailnotblocked":"Thank you, please give me a few moments to verify within the system.",
+    "companynotexistent":{
+        "main":"I can see that the user not being subject to email blocking due to delinquent time were not included in the current setup. If they should be added, please raise a Support request and complete the Vantage Email Blocking Process Request form.",
+        "sub":"For more informarion on the Vantage Email Blocking Process please visit the IPG Learning Center.\n\n --- \n\n *For more details please click the link(s) below* \n\n",
+        "links":"[Email Blocking Process](https://learningcenter.interpublic.com/gm/folder-1.11.1189651?mode=EU&primaryCSH=Vantage%2CEmail%2CBlocking%2CProcess)"
+    },
+    "timesheetsrequired":{
+        "main":"The 'Required to record time in the time sheet' is not checked for the user currently. This needs to be updated by the local admin within the **PA20**.",
+        "sub":"For more information on updating the **PA20** please visit IPG Learning Center.\n\n --- \n\n  *For more details please click the link(s) below* \n\n",
+        "links":"[Working with **PA20**](https://learningcenter.interpublic.com/gm/folder-1.11.1189651?mode=EU&primaryCSH=Vantage%2CEmail%2CBlocking%2CProcess)"
+    },
+    "emailnotblockedsuccess":{
+        "main":"I cannot find any issues with time within system. I have created a ticket for you and escalated to the help desk for action. You will hear very soon from them once the parameters have been setup.",
+        "sub":"You do not need to create another ticket in the iForm. The ticket ID is:",
+        "links":""
+    },
+    "increasecolrowfiori":{
+        "main":"The facility to change the number of columns and rows in the Fiori app on mobile is not available.",
+        "sub":"You can learn more about Fiori Mobile App at the IPG Learning Center.\n\n --- \n\n  *For more details please click the link(s) below* \n\n",
+        "links":"[Fiori Mobile App](https://learningcenter.interpublic.com/gm/folder-1.11.1081121?mode=EU&primaryCSH=Fiori%2CApp)"
+    }
+
+}

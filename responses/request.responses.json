@@ -1,0 +1,24 @@
+{
+  "request": "Sure, what do you need help with?",
+  "changetimeapprover":{
+    "main":"Please reach out to your local office HR admin to update the time approver in your Vantage Employee Human Resource(HR) Record using **PA30** transaction.",
+    "sub" : "You can find more information about the SAP transactions to be used in the below links from the IPG Learning Center. \n\n --- \n\n *For more details please click the link(s) below* \n\n",
+    "links" : "[Maintain new time approver in **ZHR04**](https://learningcenter.interpublic.com/gm/folder-1.11.5775?mode=EU&primaryCSH=zhr04)\n\n [Update Time Approver in **PA30**](https://learningcenter.interpublic.com/gm/folder-1.11.584767?mode=EU&primaryCSH=pa30)"
+  },
+  "removetimeapprover":{
+    "main": "Please request your HR to remove you as the time approver.",
+    "sub" : "They will need to update the Vantage  **PA30** record using the below steps. For more information, visit the IPG Learning Center. \n\n --- \n\n *For more details please click the link(s) below* \n\n",
+    "links" : "[How to use **PA30**](https://learningcenter.interpublic.com/gm/folder-1.11.584767?mode=EU&primaryCSH=pa30)"
+  },
+  "setuptimeapprover":{
+    "main": "Please request your HR to add you as the time approver.",
+    "sub" : "They will need to update the Vantage  **PA30** record using the below steps. For more information, visit the IPG Learning Center. \n\n --- \n\n *For more details please click the link(s) below* \n\n",
+    "links" : "[How to use **PA30**](https://learningcenter.interpublic.com/gm/folder-1.11.584767?mode=EU&primaryCSH=pa30)"
+  },
+  "updatetimeapprover":{
+    "main": "Please contact a Time Super user who will be able to edit time on your behalf up to 6 months in the past, or can un-approve your time entries and allow you to edit them up to 3 months in the past.",
+    "sub" : "You can learn more about updating time entries at the IPG Learning Center.\n\n --- \n\n *For more details please click the link(s) below* \n\n",
+    "links" : "[How to use **PA30**](https://learningcenter.interpublic.com/gm/folder-1.11.904206?mode=EU&originalContext=1.11.904151)"
+  }
+  
+}
